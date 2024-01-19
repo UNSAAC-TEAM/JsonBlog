@@ -2,7 +2,7 @@
   "currentBlog":[
     {
     "id": 1,
-    "authorId": 1,
+    "authorName": "Diego Talledo",
     "label": "BIM",
     "imageUrl": "https://www.ulima.edu.pe/sites/default/files/styles/600x300/public/news/img/agenda-biminfraestructura-jun2021.jpg?itok=Lz1BhcAY",
     "title": "Avances de implementación BIM en el Sector Público 2023",

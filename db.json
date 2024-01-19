@@ -14,33 +14,42 @@
   "recommendedBlogs":[
     {
     "id": 1,
-    "author": "Diego Talledo",
     "label": "BIM",
     "imageUrl": "https://www.ulima.edu.pe/sites/default/files/styles/600x300/public/news/img/agenda-biminfraestructura-jun2021.jpg?itok=Lz1BhcAY",
-    "title": "Avances de implementación BIM en el Sector Público 2023",
-    "description": "En la última década, la adopción de la metodología BIM ha experimentado un crecimiento significativo en América Latina marcando una transformación clave en el sector de la construcción. Se exploran los avances notables y los esfuerzos estratégicos realizados por diversos países de la región para integrar BIM en proyectos del sector público. A través de casos específicos, se examinará el impacto de la implementación de BIM en diferentes contextos latinoamericanos, así como las proyecciones y desafíos que definen la actual travesía de la región hacia la modernización y la digitalización en el ámbito de la construcción.",
-    "content":"",
-    "publishDate": 1053234000000
+    "title": "Avances de implementación BIM en el Sector Público 2023"
     },
     {
     "id": 2,
-    "author": "Diego Talledo",
     "label": "BIM",
     "imageUrl": "https://www.asidek.es/wp-content/uploads/2023/12/Tendencias-arquitectura_3.jpg",
-    "title": "Tendencias de la ingeniería y la construcción para el 2024",
-    "description": "La tecnología ha avanzado a pasos agigantados, y los arquitectos e ingenieros deben adoptar las nuevas herramientas que el futuro nos presenta. En este artículo, se exploran las tendencias hacia las cuales se encamina la industria de la construcción, y se destaca la importancia de que los profesionales den la bienvenida a estos avances para estar preparados en el día de mañana.",
-    "content":"",
-    "publishDate": 1053234000000
+    "title": "Tendencias de la ingeniería y la construcción para el 2024"
     },
     {
     "id": 3,
-    "author": "Laura Martínez",
     "label": "BIM",
     "imageUrl": "https://blog.structuralia.com/hubfs/elementos-revolucion-arquitectura.jpg",
-    "title": "Innovaciones en Diseño Arquitectónico para el Futuro",
-    "description": "Explora las últimas innovaciones y tendencias en el diseño arquitectónico que están dando forma al futuro de la arquitectura. Desde técnicas sostenibles hasta diseños vanguardistas, descubre cómo los arquitectos están redefiniendo los límites de la creatividad.",
-    "content":"",
-    "publishDate": 1053234000000
+    "title": "Innovaciones en Diseño Arquitectónico para el Futuro"
+    }
+  ],
+  "recommendedCourses":[
+    {
+    "id": 1,
+    "stars": 4.2,
+    "durationInMinutes": 347,
+    "dificulty":"Intermedio - Avanzado",
+    "priceInDollars": 59.90,
+    "imageUrl": "https://leadgods-com.s3.amazonaws.com/imagenes/publications/12087/large/leadgods_fb93e3b0dd899c3f6c60f33eb6efaf9f_89224.jpg",
+    "title": "Análisis estructural de estructuras isostáticas"
+    }
+    {
+    "id": 2,
+    "author": "Laura Martínez",
+    "stars": 4.6,
+    "durationInMinutes": 431,
+    "dificulty":"Introductorio - Intermedio",
+    "priceInDollars": 69.90,
+    "imageUrl": "https://leadgods-com.s3.amazonaws.com/imagenes/publications/12087/large/leadgods_fd515dd411bee01734cb019833d56a47_97638.png",
+    "title": "Auditoría de modelos BIM"
     }
   ]
 }

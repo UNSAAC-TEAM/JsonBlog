@@ -14,12 +14,32 @@
   "recommendedBlogs":[
     {
     "id": 1,
-    "authorName": "Diego Talledo",
+    "author": "Diego Talledo",
     "label": "BIM",
     "imageUrl": "https://www.ulima.edu.pe/sites/default/files/styles/600x300/public/news/img/agenda-biminfraestructura-jun2021.jpg?itok=Lz1BhcAY",
     "title": "Avances de implementación BIM en el Sector Público 2023",
     "description": "En la última década, la adopción de la metodología BIM ha experimentado un crecimiento significativo en América Latina marcando una transformación clave en el sector de la construcción. Se exploran los avances notables y los esfuerzos estratégicos realizados por diversos países de la región para integrar BIM en proyectos del sector público. A través de casos específicos, se examinará el impacto de la implementación de BIM en diferentes contextos latinoamericanos, así como las proyecciones y desafíos que definen la actual travesía de la región hacia la modernización y la digitalización en el ámbito de la construcción.",
-    "content":"<p>El uso de LOD en BIM es crucial para garantizar la consistencia y la precisi&oacute;n en la representaci&oacute;n digital de un proyecto de construcci&oacute;n, lo que facilita la colaboraci&oacute;n entre diferentes disciplinas y etapas del ciclo de vida del proyecto. Es por eso que en los &uacute;ltimos a&ntilde;os, se han lanzado libros que sirven de gu&iacute;as en cuanto a los requisitos que deben cumplirse en la documentaci&oacute;n con los distintos niveles de detalle conformado por distintos tipos de informaci&oacute;n.&nbsp</p>",
+    "content":"",
+    "publishDate": 1053234000000
+    },
+    {
+    "id": 2,
+    "author": "Diego Talledo",
+    "label": "BIM",
+    "imageUrl": "https://www.asidek.es/wp-content/uploads/2023/12/Tendencias-arquitectura_3.jpg",
+    "title": "Tendencias de la ingeniería y la construcción para el 2024",
+    "description": "La tecnología ha avanzado a pasos agigantados, y los arquitectos e ingenieros deben adoptar las nuevas herramientas que el futuro nos presenta. En este artículo, se exploran las tendencias hacia las cuales se encamina la industria de la construcción, y se destaca la importancia de que los profesionales den la bienvenida a estos avances para estar preparados en el día de mañana.",
+    "content":"",
+    "publishDate": 1053234000000
+    },
+    {
+    "id": 3,
+    "author": "Laura Martínez",
+    "label": "BIM",
+    "imageUrl": "https://blog.structuralia.com/hubfs/elementos-revolucion-arquitectura.jpg",
+    "title": "Innovaciones en Diseño Arquitectónico para el Futuro",
+    "description": "Explora las últimas innovaciones y tendencias en el diseño arquitectónico que están dando forma al futuro de la arquitectura. Desde técnicas sostenibles hasta diseños vanguardistas, descubre cómo los arquitectos están redefiniendo los límites de la creatividad.",
+    "content":"",
     "publishDate": 1053234000000
     }
   ]
